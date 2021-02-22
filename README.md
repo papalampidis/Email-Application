@@ -9,3 +9,5 @@ My application does the following:
 email address
 - Have methods to display the name, email, and mailbox capacity
 
+![emailapp](https://user-images.githubusercontent.com/58711654/108645526-cd7a9000-74bb-11eb-8ca6-c07db15b327c.png)
+
